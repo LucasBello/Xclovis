@@ -18,5 +18,6 @@ sudo chmod +x install.sh
 ./install.sh
 ```
 ## Rodar
+```bash
 ./xclovis.sh
 ```
